@@ -17,11 +17,22 @@ A **Flask-based web application** that predicts house prices using a **Linear Re
 - **HTML, CSS, Bootstrap** (Frontend)  
 - **Jupyter Notebook** (Model Training)  
 - **GitHub** (Version Control)  
+---
+
+## Web App Preview  
+### User Input Form  
+This is the form where users enter house details.
+![House Price Prediction Web App](https://github.com/rahuljaiswar/house_prediction/blob/main/image.png)
+
+### Prediction Result  
+This is the result page showing the predicted house price.
+![Prediction Result](https://github.com/rahuljaiswar/house_prediction/blob/main/result.png)
+
 
 ---
 
 ## Setup & Run  
-### Clone the Repository & run these command
+### Clone the Repository & run these commands one by one
 ```sh
 git clone https://github.com/rahuljaiswar/house_prediction.git
 cd house_price_prediction
